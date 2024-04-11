@@ -103,7 +103,7 @@ header.shadow {
   order: 3;
 }
 .home-img img {
-  width: 100%; 
+  width: 50%; 
 }
 .home-img img:hover {
   transform: scale(1.05); 
