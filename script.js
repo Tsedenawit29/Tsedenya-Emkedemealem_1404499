@@ -15,8 +15,7 @@
      
     // Dark Mode
     let darkmode = document.querySelector('#darkmode');
-     
-    darkmode.onclick = () => {
+      darkmode.onclick = () => {
         if(darkmode.classList.contains('bx-moon')){
             darkmode.classList.replace('bx-moon','bx-sun');
             document.body.classList.add('active');
